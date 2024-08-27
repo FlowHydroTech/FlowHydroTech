@@ -1,31 +1,33 @@
-# Bienvenidos a Flow Hydro Consulting Spa
+## Welcome to Flow Hydro Consulting Spa
 
-## Acerca de Flow
-En Flow, combinamos más de dos décadas de experiencia multidisciplinaria con una pasión por soluciones sostenibles y avanzadas en Recursos Hídricos e Ingeniería del Agua. 
-Valoramos el profesionalismo, integridad, y diversidad, enfocándonos en la eficiencia, innovación, seguridad, excelencia y responsabilidad social y medioambiental.
+## About Flow
+At Flow, we combine more than two decades of multidisciplinary experience with a passion for sustainable and advanced solutions in Water Resources and Water Engineering. 
+We value professionalism, integrity, and diversity, with a focus on efficiency, innovation, safety, excellence, and social and environmental responsibility.
 
-## Nuestros Servicios
-Especialistas en el manejo eficiente del recurso hídrico, nos dedicamos a crear equilibrios entre la demanda de agua y su disponibilidad, con una fuerte orientación hacia la minería. 
-Ofrecemos servicios que abarcan desde modelamiento hidrológico y gestión de riesgos de inundaciones, hasta asesoramiento en la estabilidad química de instalaciones mineras y estrategias ambientales integrales.
+## Our Services
+Specialists in efficient water resource management, we are dedicated to creating trade-offs between water demand and availability, with a strong focus on mining. 
+We offer services ranging from hydrological modelling and flood risk management, to advice on the chemical stability of mining facilities and integrated environmental strategies.
 
-## Tecnología e Innovación
-Lideramos la vanguardia en el desarrollo de herramientas tecnológicas avanzadas para la gestión y la toma de decisiones estratégicas, con ejemplos notables como nuestro sistema de Monitoreo en Línea.
+## Technology and Innovation
+We lead the way in the development of advanced technological tools for management and strategic decision making, with notable examples such as our Online Monitoring system.
 
-## Compromiso con la Información
-Reconocemos la crítica importancia de organizar de manera eficiente grandes volúmenes de datos, tanto estructurados como no estructurados. Utilizamos sistemas de gestión de bases de datos avanzados como PostgreSQL y MS SQL, 
-y herramientas de análisis a gran escala como DuckDB. Empleamos el desarrollo de scripts en Python para la automatización y procesamiento de datos y usamos R para la estadística y proyectos de ciencia de datos, estructurados en torno a Kedro.
+## Commitment to Information
+We recognise the critical importance of efficiently organising large volumes of data, both structured and unstructured. We use advanced database management systems such as PostgreSQL and MS SQL, 
+and large-scale analysis tools such as DuckDB. We employ Python scripting for automation and data processing and use R for statistics and data science projects, structured around Kedro.
 
-## Herramientas Analíticas y de Reporte
-Facilitamos la reportabilidad a través de herramientas Business Intelligence como Power BI y Tableau, garantizando claridad y transparencia en la presentación de nuestros hallazgos y análisis.
+## Analytical and Reporting Tools
+We facilitate reporting through Business Intelligence tools such as Power BI and Tableau, ensuring clarity and transparency in the presentation of our findings and analysis.
 
-## Innovación en Machine Learning y Minería de Datos
-Nos adelantamos en la implementación de proyectos de aprendizaje automático y minería de datos para descubrir insights que conducen a soluciones de gestión de agua más inteligentes y eficaces.
+## Innovation in Machine Learning and Data Mining
+We lead the way in implementing machine learning and data mining projects to discover insights that lead to smarter, more effective water management solutions.
 
-## Colaboraciones
-Hemos colaborado con importantes entidades tanto a nivel nacional como internacional, aportando en proyectos críticos y de gran envergadura.
+## Collaborations
+We have collaborated with leading national and international organisations, contributing to critical and large-scale projects.
 
-## Contribuir
-Estamos abiertos a colaboraciones que promuevan la innovación y mejoren la gestión de los recursos hídricos. Si estás interesado en contribuir a nuestros proyectos, ¡nos encantaría escucharte!
+## Contribute
+We are open to collaborations that promote innovation and improve water resource management. If you are interested in contributing to our projects, we would love to hear from you!
 
-## Contáctanos
-Para más información sobre nuestros servicios o si deseas alcanzar nuestro equipo, visita [nuestro sitio web](https://www.flowhydro.cl).
+## Contact us
+For more information about our services or if you would like to reach our team, please visit [our website](https://www.flowhydro.cl).
+
+Translated with www.DeepL.com/Translator (free version)
