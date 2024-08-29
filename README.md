@@ -28,6 +28,4 @@ We have collaborated with leading national and international organisations, cont
 We are open to collaborations that promote innovation and improve water resource management. If you are interested in contributing to our projects, we would love to hear from you!
 
 ## Contact us
-For more information about our services or if you would like to reach our team, please visit [our website](https://www.flowhydro.cl).
-
-Translated with www.DeepL.com/Translator (free version)
+For more information about our services or if you would like to reach our team, please visit [our website](https://www.flowhydro.cl)
